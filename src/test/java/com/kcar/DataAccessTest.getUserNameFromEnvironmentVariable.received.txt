@@ -1,0 +1,3 @@
+CPU : 256 
+MEM : 512m 
+Zane : SuperSmart 
